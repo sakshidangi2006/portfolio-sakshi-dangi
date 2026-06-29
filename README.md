@@ -6,11 +6,6 @@ Built with **Next.js 16**, **TypeScript**, **Tailwind CSS v4**, and **Framer Mot
 
 ---
 
-## Live Site
-
-🔗 [sakshi-dangi.vercel.app](https://sakshi-dangi.vercel.app) <!-- update with actual URL -->
-
----
 
 ## About
 
